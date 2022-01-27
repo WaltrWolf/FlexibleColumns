@@ -1,0 +1,22 @@
+.row{
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    margin-bottom: 20px;
+    color: white;
+    font-size: larger;
+    text-align:center
+}
+.col{
+    background: cadetblue;
+    width: 400px;
+}
+.col-2{
+    background: cadetblue;
+    width: 1400px;
+}
+.col-3{
+    width: 4900px;
+    margin-left: 100px;
+    background: cadetblue;
+}
